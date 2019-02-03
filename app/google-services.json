@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "733141463026",
+    "firebase_url": "https://createmap-e8d13.firebaseio.com",
+    "project_id": "createmap-e8d13",
+    "storage_bucket": "createmap-e8d13.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:733141463026:android:c455110702317e90",
+        "android_client_info": {
+          "package_name": "com.example.dell.createmap"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "733141463026-k0rpef9d4tv3och2mh8tvh17ef1t8khj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.dell.createmap",
+            "certificate_hash": "bbf6be8c131b9be49ed301fb6eaa40be29557da7"
+          }
+        },
+        {
+          "client_id": "733141463026-d826of1n5e4h1rjvelreanhfe48vbt43.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDG612frN7y9CtJ1JiwIGFKsbOsdBXk24s"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "733141463026-d826of1n5e4h1rjvelreanhfe48vbt43.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
